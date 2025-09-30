@@ -1,2 +1,2 @@
-# config-next
+# config
 Shared config files
