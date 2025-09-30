@@ -1,2 +1,2 @@
 # config-next
-Shared config files for NextJS Projects
+Shared config files
